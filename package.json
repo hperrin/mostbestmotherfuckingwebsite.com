@@ -1,0 +1,26 @@
+{
+  "name": "mostbestmotherfuckingwebsite.com",
+  "version": "1.0.0",
+  "description": "The most best mother fucking website.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hperrin/mostbestmotherfuckingwebsite.com.git"
+  },
+  "author": "Hunter Perrin <hperrin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hperrin/mostbestmotherfuckingwebsite.com/issues"
+  },
+  "homepage": "https://github.com/hperrin/mostbestmotherfuckingwebsite.com#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-material": "^1.1.5",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
